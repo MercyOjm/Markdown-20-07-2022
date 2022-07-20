@@ -2,8 +2,8 @@
 
 ## Important Resume 
 
-- [ ] , Click here (https://www.google.com)
-- [ ] , Click here (https://www.google.com)
+- [x] , [Click here](https://www.google.com)
+- [ ] , [Click here](https://www.google.com)
 
 <h>Skills<h/>
 - [ ] Microsoft office 
