@@ -13,4 +13,4 @@
 | ---- |:---- |
 | Mark | 35   |
 
-![Sea side](Sea side.jpg)
+![Sea side](image/Sea%20side.jpg)
