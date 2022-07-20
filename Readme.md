@@ -2,8 +2,8 @@
 
 ## Important Resume 
 
-- [ ] ,Click here (https//www.google.com)
-- [ ] ,Click here (https//www.google.com)
+- [ ] , Click here (https://www.google.com)
+- [ ] , Click here (https://www.google.com)
 
 <h>Skills<h/>
 - [ ] Microsoft office 
@@ -13,4 +13,4 @@
 | ---- |:---- |
 | Mark | 35   |
 
-![Sea side]Sea side.jpg)
+![Sea side](Sea side.jpg)
